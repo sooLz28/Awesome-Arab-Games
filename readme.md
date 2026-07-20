@@ -1,4 +1,4 @@
-<h1 align="center">Awesome Arabic Games || قائمة الألعاب العربية</h1>
+<h1 align="center">Awesome Arab Games || قائمة الألعاب العربية</h1>
 
 <br>
 
