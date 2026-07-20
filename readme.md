@@ -31,7 +31,7 @@
 
 <p align="center">
   <a href="https://istandwithpalestine.org/">
-    <img src="media/palestine.png">
+      <img src="media/palestine.png">
   </a>
 </p>
 
