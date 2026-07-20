@@ -78,31 +78,29 @@
     
     - [Wojdan](https://store.steampowered.com/app/573050/Wojdan/)
 
-        
-    
-
-
+<br>
 
 - ### 🆓 Free
     - [Tangles](https://store.steampowered.com/app/2784980/Tangles/)
-<hr>
+
+<br>
 
 - ### ⏳ Not Released Yet
-    - #### Demo Available
-    <hr>
-    
-    - [Seed in](https://store.steampowered.com/app/2242240/Seed_in/)
+    - #### Demo Available:
 
-    - [Hood Tales Part 1: Morocco](https://store.steampowered.com/app/3578550/Hood_Tales_Part_1_Morocco/)
+      
+      - [Seed in](https://store.steampowered.com/app/2242240/Seed_in/)
 
-    - [A Heavy Morning](https://store.steampowered.com/app/3509400/A_Heavy_Morning/)
-    
-    - [Neon Moon](https://store.steampowered.com/app/1650210/Neon_Moon/)
-    
-    - [REVENGE CRYSTAL](https://store.steampowered.com/app/2713680/REVENGE_CRYSTAL/)
+      - [Hood Tales Part 1: Morocco](https://store.steampowered.com/app/3578550/Hood_Tales_Part_1_Morocco/)
 
-    - [Tangles 2](https://store.steampowered.com/app/3371720/Tangles_2/)
-        
+      - [A Heavy Morning](https://store.steampowered.com/app/3509400/A_Heavy_Morning/)
+      
+      - [Neon Moon](https://store.steampowered.com/app/1650210/Neon_Moon/)
+      
+      - [REVENGE CRYSTAL](https://store.steampowered.com/app/2713680/REVENGE_CRYSTAL/)
+
+      - [Tangles 2](https://store.steampowered.com/app/3371720/Tangles_2/)
+          
 
 ## Itch.io and misc 
 
