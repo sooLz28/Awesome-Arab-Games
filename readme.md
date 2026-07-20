@@ -10,20 +10,20 @@
 
 ## Content
 - [Steam](#steam)
-- [Itch.io and misc]()
+- [Itch.io and misc](#itchio-and-misc)
 
 <br>
 
 
 ## Studios
 > ***This only includes studios that have released two or more games.**
-<hr>
+
 
 - [Limeless Studio🍋‍🟩🗙](https://limeless.games/)
 - [Light Studio | نقش الضوء](https://store.steampowered.com/search/?developer=Light%20Studio%20%7C%20%D9%86%D9%82%D8%B4%20%D8%A7%D9%84%D8%B6%D9%88%D8%A1
 )
 
-<br><br><br><br>
+<br>
 
 <hr style="height: 4px; background-color: #333; border: none;">
 
@@ -36,6 +36,8 @@
 </p>
 
 <hr style="height: 4px; background-color: #333; border: none;">
+
+<br>
 
 ## Steam 
 
@@ -104,5 +106,8 @@
 
 ## Itch.io and misc 
 
+<br>
 
 <hr>
+
+### Contributions are welcome!
