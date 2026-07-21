@@ -41,6 +41,8 @@
 
 ## Steam 
 
+<br>
+
 - ### 💵 Paid
     <hr>
 
@@ -81,7 +83,7 @@
 <br>
 
 - ### 🆓 Free
-    - [Tangles](https://store.steampowered.com/app/2784980/Tangles/)
+  - [Tangles](https://store.steampowered.com/app/2784980/Tangles/)
 
 <br>
 
