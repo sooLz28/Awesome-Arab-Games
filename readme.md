@@ -5,8 +5,9 @@
 ## Language
 
 - English (Current)
-- [Arabic (NOT FINISHED)](اقرأني.md)
+- [Arabic](اقرأني.md)
 
+<br>
 
 ## Content
 - [Steam](#steam)
