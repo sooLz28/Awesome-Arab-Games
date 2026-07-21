@@ -85,6 +85,7 @@
 
 - ### 🆓 Free
   - [Tangles](https://store.steampowered.com/app/2784980/Tangles/)
+  - [Either Eye](https://store.steampowered.com/app/3145790/Either_Eye/)
 
 <br>
 
