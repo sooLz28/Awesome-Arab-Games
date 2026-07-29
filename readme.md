@@ -104,7 +104,8 @@
       - [REVENGE CRYSTAL](https://store.steampowered.com/app/2713680/REVENGE_CRYSTAL/)
 
       - [Tangles 2](https://store.steampowered.com/app/3371720/Tangles_2/)
-          
+
+      - [Shawarma Hell](https://store.steampowered.com/app/3911240/Shawarma_Hell/)
 
 ## Itch.io and misc 
 
